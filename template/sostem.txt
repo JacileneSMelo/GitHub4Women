@@ -1,14 +1,11 @@
-# Título Principal
+# S O S template.
 
-## Subtítulo
+## Aprendendo sobre branches
 
 Algum texto explicativo aqui.
 
-- Item 1 da lista
-- Item 2 da lista
-- Item 3 da lista
 
-**Texto em negrito**  
+**GitHub4Women**  
 *Texto em itálico*
 
 [Link para o GitHub](https://github.com)
