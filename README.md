@@ -1,4 +1,4 @@
-# 💻 GitHub4Women - Projeto do Curso
+# 💻 GitHub4Women - Mais Mulheres Tech
 
 Este repositório foi criado como parte das atividades do curso **GitHub4Women**, com o objetivo de aprender e praticar os principais comandos e funcionalidades da plataforma GitHub.
 
@@ -10,7 +10,6 @@ Aqui você encontrará os arquivos desenvolvidos durante o curso, incluindo:
 - Criação e organização de repositórios  
 - Versionamento de código  
 - Colaboração com outras pessoas desenvolvedoras  
-- Uso de issues, pull requests e GitHub Pages  
 
 ## 🛠 Tecnologias e ferramentas
 
