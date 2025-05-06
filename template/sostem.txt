@@ -1,0 +1,22 @@
+# Título Principal
+
+## Subtítulo
+
+Algum texto explicativo aqui.
+
+- Item 1 da lista
+- Item 2 da lista
+- Item 3 da lista
+
+**Texto em negrito**  
+*Texto em itálico*
+
+[Link para o GitHub](https://github.com)
+
+---
+
+### Código
+
+```python
+print("Olá, mundo!")
+"
